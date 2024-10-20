@@ -43,8 +43,6 @@ def job():
          r"D:\Users\new\Desktop\snapchat\sendto.png",
          r"D:\Users\new\Desktop\snapchat\myai.png",
          # r"D:\Users\new\Desktop\snapchat\me.png",  # Uncomment this line
-         # r"D:\Users\new\Desktop\snapchat\alan.png",   # Uncomment this line
-         # r"D:\Users\new\Desktop\snapchat\rhiannon.png",   # Uncomment this line
          # r"D:\Users\new\Desktop\snapchat\sent.png",
     ]
     for image_path in image_paths:
