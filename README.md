@@ -1,0 +1,1 @@
+# snapchat-auto-snap
