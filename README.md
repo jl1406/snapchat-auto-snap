@@ -1,5 +1,5 @@
 
-Snapchat Automation Script
+# Snapchat Automation Script
 
 This project uses Python, OpenCV, and PyAutoGUI to automate interactions with Snapchat's desktop interface by locating specific elements on the screen and simulating mouse movements and clicks. The script captures screenshots, searches for predefined images on the screen, and interacts with them automatically.
 
